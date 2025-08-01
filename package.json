@@ -2,6 +2,8 @@
   "dependencies": {
     "@aztec/bb.js": "0.84.0",
     "@noir-lang/noir_js": "1.0.0-beta.6",
+    "bigint-buffer": "^1.1.5",
+    "circomlibjs": "^0.1.7",
     "dotenv": "^17.2.1",
     "express": "^5.1.0",
     "mysql2": "^3.14.3",
